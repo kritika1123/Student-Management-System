@@ -1,0 +1,2 @@
+Upgraded the accuracy of data by 30% through precise filtering and DAX queries. Developed a comprehensive dashboard with sections, cards, and charts, boosting data accessibility and user engagement by 30%. 
+More intuitive daTa interaction has optimized decision-making efficiency and strategic planning by 25%. Supported infored and timely business decisions by significantly enhancing data clarity and usability.
